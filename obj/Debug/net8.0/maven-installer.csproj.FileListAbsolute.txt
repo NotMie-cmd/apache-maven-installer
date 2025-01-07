@@ -1,0 +1,14 @@
+C:\Users\misko\Projects\C#\maven-installer\obj\Debug\net8.0\maven-installer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misko\Projects\C#\maven-installer\obj\Debug\net8.0\maven-installer.AssemblyInfoInputs.cache
+C:\Users\misko\Projects\C#\maven-installer\obj\Debug\net8.0\maven-installer.AssemblyInfo.cs
+C:\Users\misko\Projects\C#\maven-installer\obj\Debug\net8.0\maven-installer.csproj.CoreCompileInputs.cache
+C:\Users\misko\Projects\C#\maven-installer\bin\Debug\net8.0\maven-installer.exe
+C:\Users\misko\Projects\C#\maven-installer\bin\Debug\net8.0\maven-installer.deps.json
+C:\Users\misko\Projects\C#\maven-installer\bin\Debug\net8.0\maven-installer.runtimeconfig.json
+C:\Users\misko\Projects\C#\maven-installer\bin\Debug\net8.0\maven-installer.dll
+C:\Users\misko\Projects\C#\maven-installer\bin\Debug\net8.0\maven-installer.pdb
+C:\Users\misko\Projects\C#\maven-installer\obj\Debug\net8.0\maven-installer.dll
+C:\Users\misko\Projects\C#\maven-installer\obj\Debug\net8.0\refint\maven-installer.dll
+C:\Users\misko\Projects\C#\maven-installer\obj\Debug\net8.0\maven-installer.pdb
+C:\Users\misko\Projects\C#\maven-installer\obj\Debug\net8.0\maven-installer.genruntimeconfig.cache
+C:\Users\misko\Projects\C#\maven-installer\obj\Debug\net8.0\ref\maven-installer.dll

@@ -1,0 +1,2 @@
+C:\Users\misko\Projects\C#\maven-installer\bin\Release\net8.0\win-x64\publish\maven-installer.pdb
+C:\Users\misko\Projects\C#\maven-installer\bin\Release\net8.0\win-x64\publish\maven-installer.exe

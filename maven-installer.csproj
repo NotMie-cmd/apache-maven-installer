@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework> <!-- Change to your target framework -->
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier> <!-- Specify the target runtime -->
+    <SelfContained>true</SelfContained> <!-- Create a self-contained executable -->
+    <PublishSingleFile>true</PublishSingleFile> <!-- Create a single-file executable -->
+    <IncludeAllContentForSelfExtract>true</IncludeAllContentForSelfExtract> <!-- Include all content -->
+  </PropertyGroup>
+
+</Project>
