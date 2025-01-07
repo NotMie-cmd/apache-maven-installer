@@ -195,3 +195,4 @@ C:\Users\misko\Projects\C#\maven-installer\obj\Debug\net8.0\win-x64\refint\maven
 C:\Users\misko\Projects\C#\maven-installer\obj\Debug\net8.0\win-x64\maven-installer.pdb
 C:\Users\misko\Projects\C#\maven-installer\obj\Debug\net8.0\win-x64\maven-installer.genruntimeconfig.cache
 C:\Users\misko\Projects\C#\maven-installer\obj\Debug\net8.0\win-x64\ref\maven-installer.dll
+C:\Users\misko\Projects\C#\maven-installer\bin\Debug\net8.0\win-x64\resource\ico\Apache-Maven.ico
